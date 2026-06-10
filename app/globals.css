@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #F9F9F7;
+  --ink: #111111;
+  --ink-soft: #404040;
+  --ink-muted: #737373;
+  --neutral-soft: #E5E5E0;
+  --editor-red: #CC0000;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-muted: var(--ink-muted);
+  --color-neutral-soft: var(--neutral-soft);
+  --color-editor-red: var(--editor-red);
+  --font-serif: "Songti SC", "STSong", "Times New Roman", serif;
+  --font-body: "Songti SC", "STSong", Georgia, serif;
+  --font-sans: "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "Courier New", monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+button,
+textarea,
+a {
+  border-radius: 0;
+}
+
+.sharp-corners {
+  border-radius: 0 !important;
+}
+
+.newsprint-dots {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23111111' fill-opacity='0.035' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'/%3E%3C/svg%3E");
+}
+
+.desk-split-grid {
+  display: grid;
+  grid-template-columns: minmax(420px, 5fr) minmax(680px, 7fr);
+}
+
+.drop-zone:focus,
+.drop-zone:hover {
+  background: var(--neutral-soft);
+  color: var(--ink);
+}
+
+.ai-discussion {
+  box-shadow: 4px 4px 0 0 var(--ink);
+}
+
+::selection {
+  background: var(--editor-red);
+  color: var(--paper);
+}

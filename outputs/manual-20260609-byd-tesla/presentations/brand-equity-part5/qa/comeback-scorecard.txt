@@ -1,0 +1,29 @@
+Primary profile: template-following
+Profile gate: PASS
+
+Package checks:
+- final PPTX exists and is non-empty
+- slide count: 5
+- media parts: 5
+- no zero-byte media reported
+
+Render checks:
+- all five slides rendered to PNG
+- final contact sheet reviewed
+- no visible clipping or overflow
+- page numbers read 01-05
+- English slide copy is legible at full-size render
+
+Template fidelity:
+- PASS with zero issues
+- all slides derive from mapped source slides
+- all narrative content edits target inherited text elements
+- school identity assets remain visible
+
+Layout checker:
+- inherited background images intentionally overlap text regions in source slides 5 and 13
+- inherited metric labels intentionally sit next to large numeric labels in source slide 9
+- these are source-template false positives; full-size render review confirms the intended composition
+
+Remaining tradeoff:
+- body copy on slides 2 and 4 inherits the template's light-gray small-text treatment; copy was shortened to preserve the original typography and remains readable in full-size renders

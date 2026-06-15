@@ -1,0 +1,7 @@
+Slide 1: three-column strategic fork, source slide 5.
+Slide 2: four-quadrant Ansoff logic, source slide 9.
+Slide 3: three-column Tesla action set, source slide 5.
+Slide 4: four-stage BYD roadmap, source slide 9.
+Slide 5: large synthesis panel, source slide 13.
+
+Rhythm: 3-column -> 4-item -> 3-column -> 4-stage -> single synthesis.

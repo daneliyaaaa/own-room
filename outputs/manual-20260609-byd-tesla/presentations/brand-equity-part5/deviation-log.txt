@@ -1,0 +1,5 @@
+Slide 1: source slide 5 reused as a strategic fork; inherited background and three-column structure preserved.
+Slide 2: source slide 9 reused as an Ansoff matrix; four metric labels become quadrant labels.
+Slide 3: source slide 5 reused as Tesla's three-action strategy; structure preserved.
+Slide 4: source slide 9 reused as BYD's phased roadmap; four metric labels become time/guardrail labels.
+Slide 5: source slide 13 reused as a conclusion and risk panel; inherited seal and frame preserved.

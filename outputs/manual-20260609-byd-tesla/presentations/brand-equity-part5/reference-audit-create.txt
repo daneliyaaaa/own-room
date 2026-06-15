@@ -1,0 +1,4 @@
+Quality reference: the user-provided screenshot of another section.
+Patterns adopted: claim-led titles, dense analytical panels, red/blue comparison logic, KPI and risk blocks, strong information hierarchy.
+Patterns intentionally not copied: the exact three-column composition, radar chart, and template chrome.
+Improvement target: clearer five-slide progression from diagnosis to portfolio, execution, and governance.

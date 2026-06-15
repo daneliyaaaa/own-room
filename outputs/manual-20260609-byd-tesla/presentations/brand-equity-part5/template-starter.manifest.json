@@ -1,0 +1,68 @@
+{
+  "sourcePptx": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/source/template.pptx",
+  "mapPath": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-frame-map.json",
+  "output": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter.pptx",
+  "outputBytes": 540503,
+  "sourceSlideCount": 15,
+  "slideCount": 5,
+  "previewDir": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-preview",
+  "layoutDir": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-layout",
+  "contactSheet": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-contact-sheet.png",
+  "slides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 5,
+      "narrativeRole": "strategic starting point",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 9,
+      "previewPath": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-preview/starter-slide-01.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-01.png",
+      "layoutPath": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-layout/starter-slide-01.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-01.layout.json"
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 9,
+      "narrativeRole": "Ansoff growth matrix",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 15,
+      "previewPath": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-preview/starter-slide-02.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-02.png",
+      "layoutPath": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-layout/starter-slide-02.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-02.layout.json"
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 5,
+      "narrativeRole": "Tesla growth priorities",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 9,
+      "previewPath": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-preview/starter-slide-03.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-03.png",
+      "layoutPath": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-layout/starter-slide-03.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-03.layout.json"
+    },
+    {
+      "outputSlide": 4,
+      "sourceSlide": 9,
+      "narrativeRole": "BYD brand upgrade roadmap",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 15,
+      "previewPath": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-preview/starter-slide-04.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-04.png",
+      "layoutPath": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-layout/starter-slide-04.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-04.layout.json"
+    },
+    {
+      "outputSlide": 5,
+      "sourceSlide": 13,
+      "narrativeRole": "breakthrough moves and risks",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 3,
+      "previewPath": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-preview/starter-slide-05.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-05.png",
+      "layoutPath": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-layout/starter-slide-05.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-05.layout.json"
+    }
+  ]
+}

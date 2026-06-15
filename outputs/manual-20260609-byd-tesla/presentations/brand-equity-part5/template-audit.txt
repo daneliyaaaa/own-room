@@ -1,0 +1,24 @@
+preserve:
+- warm ivory background, Renmin red lines, school logo, campus illustration language, and page-marker placement
+- inherited typography and spacing
+
+improve:
+- replace generic Chinese template instructions with concise English strategic claims
+- remove template ambiguity by assigning one proof object to each slide
+
+do not imitate:
+- placeholder prose density
+- campus photography as topical evidence; inherited decorative images remain template chrome only
+
+brand/assets:
+- all Renmin Business School marks are inherited from the supplied template
+- no Tesla or BYD logo is introduced
+
+exact clone:
+- each output slide duplicates source slide 5, 9, or 13
+- edits are limited to inherited text elements named in template-frame-map.json
+
+insertion contract:
+- no fresh slides or overlay panels
+- no new primitives
+- text must fit original boxes at original typography

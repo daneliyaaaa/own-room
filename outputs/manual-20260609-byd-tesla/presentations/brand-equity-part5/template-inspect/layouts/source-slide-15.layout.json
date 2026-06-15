@@ -1,0 +1,1667 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/7y1kre1w",
+    "id": "7y1kre1w",
+    "slide": 16,
+    "layoutId": "/ppt/slideLayouts/slideLayout2.xml",
+    "layoutName": "标题和内容",
+    "layoutType": "obj",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "Office",
+    "colors": {
+      "accent1": "#5B9BD5",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#4472C4",
+      "accent6": "#70AD47",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fontScheme": {
+      "name": "Aspect",
+      "majorFont": {
+        "latinTypeface": "Verdana"
+      },
+      "minorFont": {
+        "latinTypeface": "Verdana"
+      }
+    },
+    "typefaces": [
+      "Microsoft YaHei Bold",
+      "Verdana",
+      "微软雅黑"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout2.xml",
+      "name": "标题和内容",
+      "type": "obj",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "backgroundColor": "#FAF8F3",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/2",
+          "id": "2",
+          "name": "标题 1",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/3",
+          "id": "3",
+          "name": "内容占位符 2",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "layout",
+          "aid": "template/layout//ppt/slideLayouts/slideLayout2.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "elements": [
+        {
+          "order": 1,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/2",
+          "id": "2",
+          "name": "标题占位符 1",
+          "bbox": [
+            88.01,
+            38.33,
+            1104.11,
+            139.17
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 2,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/3",
+          "id": "3",
+          "name": "文本占位符 2",
+          "bbox": [
+            88.01,
+            191.67,
+            1104.11,
+            456.83
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "vertical": 1,
+            "autoFit": "shrinkText",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 3,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/4",
+          "id": "4",
+          "name": "日期占位符 3",
+          "bbox": [
+            88.01,
+            667.33,
+            288.03,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 4,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/5",
+          "id": "5",
+          "name": "页脚占位符 4",
+          "bbox": [
+            424.04,
+            667.33,
+            432.04,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        },
+        {
+          "order": 5,
+          "kind": "shape",
+          "scope": "master",
+          "aid": "template/master//ppt/slideMasters/slideMaster1.xml/6",
+          "id": "6",
+          "name": "灯片编号占位符 5",
+          "bbox": [
+            904.09,
+            667.33,
+            288.03,
+            38.33
+          ],
+          "geometry": "rect",
+          "resolvedTextStyle": {
+            "anchor": 2,
+            "vertical": 1,
+            "verticalAlignment": "middle",
+            "insets": {
+              "top": 4.8,
+              "right": 9.6,
+              "bottom": 4.8,
+              "left": 9.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/fu18jqh0",
+      "id": "64",
+      "name": "图片 9",
+      "bbox": [
+        190.07,
+        359.53,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image36.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 588
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image36.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 588
+      }
+    },
+    {
+      "order": 2,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/m94fu18j",
+      "id": "65",
+      "name": "图片 10",
+      "bbox": [
+        268.67,
+        359.53,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image38.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 587
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image38.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 587
+      }
+    },
+    {
+      "order": 3,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/x0nuxc3y",
+      "id": "66",
+      "name": "图片 11",
+      "bbox": [
+        347.27,
+        271.33,
+        45.6,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image40.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 743
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image40.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 743
+      }
+    },
+    {
+      "order": 4,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/4fu18jqh",
+      "id": "67",
+      "name": "图片 12",
+      "bbox": [
+        268.67,
+        271.33,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image42.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 589
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image42.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 589
+      }
+    },
+    {
+      "order": 5,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/f6dcbulw",
+      "id": "68",
+      "name": "图片 13",
+      "bbox": [
+        425.8,
+        271.33,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image44.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 590
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image44.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 590
+      }
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/mlkjm1cf",
+      "id": "69",
+      "name": "图片 14",
+      "bbox": [
+        190.07,
+        271.33,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image46.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 624
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image46.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 624
+      }
+    },
+    {
+      "order": 7,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/wra5gbq1",
+      "id": "70",
+      "name": "图片 16",
+      "bbox": [
+        504.73,
+        271.33,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image48.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 529
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image48.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 529
+      }
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/lc7u54zi",
+      "id": "71",
+      "name": "图片 17",
+      "bbox": [
+        583.67,
+        271.33,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image50.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1043
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image50.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1043
+      }
+    },
+    {
+      "order": 9,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/eloj2t83",
+      "id": "72",
+      "name": "图片 19",
+      "bbox": [
+        662.6,
+        271.33,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image52.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 791
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image52.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 791
+      }
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/36hcrmhk",
+      "id": "73",
+      "name": "图片 20",
+      "bbox": [
+        741.53,
+        271.33,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image54.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 598
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image54.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 598
+      }
+    },
+    {
+      "order": 11,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/wfyxobm5",
+      "id": "74",
+      "name": "图片 21",
+      "bbox": [
+        190.07,
+        443.6,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image56.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 361
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image56.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 361
+      }
+    },
+    {
+      "order": 12,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/l0rqd4vm",
+      "id": "75",
+      "name": "图片 22",
+      "bbox": [
+        268.67,
+        443.6,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image58.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1684
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image58.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1684
+      }
+    },
+    {
+      "order": 13,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ed8bat47",
+      "id": "76",
+      "name": "图片 23",
+      "bbox": [
+        347.27,
+        443.6,
+        45.6,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image60.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1105
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image60.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1105
+      }
+    },
+    {
+      "order": 14,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/7u54zido",
+      "id": "77",
+      "name": "图片 24",
+      "bbox": [
+        425.8,
+        443.6,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image62.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1196
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image62.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1196
+      }
+    },
+    {
+      "order": 15,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/w7mp0bi9",
+      "id": "78",
+      "name": "图片 25",
+      "bbox": [
+        504.73,
+        443.6,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image64.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1538
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image64.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1538
+      }
+    },
+    {
+      "order": 16,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/psfil0rq",
+      "id": "79",
+      "name": "图片 26",
+      "bbox": [
+        583.67,
+        443.6,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image66.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 649
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image66.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 649
+      }
+    },
+    {
+      "order": 17,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/loj2t83i",
+      "id": "80",
+      "name": "图片 27",
+      "bbox": [
+        662.6,
+        443.6,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image68.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 507
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image68.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 507
+      }
+    },
+    {
+      "order": 18,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/w3m94fu1",
+      "id": "81",
+      "name": "图片 28",
+      "bbox": [
+        741.53,
+        443.6,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image70.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 840
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image70.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 840
+      }
+    },
+    {
+      "order": 19,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/3itgfmlk",
+      "id": "82",
+      "name": "图片 29",
+      "bbox": [
+        347.27,
+        359.53,
+        45.6,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image72.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 652
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image72.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 652
+      }
+    },
+    {
+      "order": 20,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ex0nuxc3",
+      "id": "83",
+      "name": "图片 30",
+      "bbox": [
+        425.8,
+        359.53,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image74.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 449
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image74.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 449
+      }
+    },
+    {
+      "order": 21,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/lwval87e",
+      "id": "84",
+      "name": "图片 31",
+      "bbox": [
+        504.73,
+        359.53,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image76.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 726
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image76.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 726
+      }
+    },
+    {
+      "order": 22,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/wb2hwfyx",
+      "id": "85",
+      "name": "图片 32",
+      "bbox": [
+        820.8,
+        271.27,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image78.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 475
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image78.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 475
+      }
+    },
+    {
+      "order": 23,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/3q5o7qpg",
+      "id": "86",
+      "name": "图片 33",
+      "bbox": [
+        899.4,
+        271.27,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image80.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 562
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image80.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 562
+      }
+    },
+    {
+      "order": 24,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/e9cvixcz",
+      "id": "87",
+      "name": "图片 34",
+      "bbox": [
+        978,
+        271.27,
+        45.6,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image82.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1122
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image82.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1122
+      }
+    },
+    {
+      "order": 25,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/l87ed8ba",
+      "id": "88",
+      "name": "图片 35",
+      "bbox": [
+        1056.53,
+        271.27,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image84.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 996
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image84.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 996
+      }
+    },
+    {
+      "order": 26,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/sneloj2t",
+      "id": "89",
+      "name": "图片 36",
+      "bbox": [
+        190.07,
+        528.07,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image86.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1087
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image86.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1087
+      }
+    },
+    {
+      "order": 27,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/6hcrmhk3",
+      "id": "90",
+      "name": "图片 37",
+      "bbox": [
+        269,
+        528.07,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image88.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 558
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image88.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 558
+      }
+    },
+    {
+      "order": 28,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/z25kb6xk",
+      "id": "91",
+      "name": "图片 6",
+      "bbox": [
+        662.6,
+        359.53,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image90.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 698
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image90.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 698
+      }
+    },
+    {
+      "order": 29,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/onyd0z61",
+      "id": "92",
+      "name": "图片 7",
+      "bbox": [
+        583.67,
+        359.53,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image92.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 652
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image92.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 652
+      }
+    },
+    {
+      "order": 30,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/d8v6psfi",
+      "id": "93",
+      "name": "图片 8",
+      "bbox": [
+        820.8,
+        359.53,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image94.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1025
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image94.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1025
+      }
+    },
+    {
+      "order": 31,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/6tovahoz",
+      "id": "94",
+      "name": "图片 15",
+      "bbox": [
+        899.4,
+        359.53,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image96.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 565
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image96.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 565
+      }
+    },
+    {
+      "order": 32,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/vahoza1g",
+      "id": "95",
+      "name": "图片 18",
+      "bbox": [
+        978,
+        359.53,
+        45.6,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image98.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 442
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image98.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 442
+      }
+    },
+    {
+      "order": 33,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ovahoza1",
+      "id": "96",
+      "name": "图片 38",
+      "bbox": [
+        1056.53,
+        359.53,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image100.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 539
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image100.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 539
+      }
+    },
+    {
+      "order": 34,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/dg7adsji",
+      "id": "97",
+      "name": "图片 39",
+      "bbox": [
+        505.8,
+        528.07,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image102.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 824
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image102.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 824
+      }
+    },
+    {
+      "order": 35,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/61032lsz",
+      "id": "98",
+      "name": "图片 40",
+      "bbox": [
+        584.73,
+        528.07,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image104.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1485
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image104.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 1485
+      }
+    },
+    {
+      "order": 36,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/vmtwra5g",
+      "id": "99",
+      "name": "图片 41",
+      "bbox": [
+        663.67,
+        528.07,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image106.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 809
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image106.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 809
+      }
+    },
+    {
+      "order": 37,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/c7u54zid",
+      "id": "100",
+      "name": "图片 42",
+      "bbox": [
+        742.6,
+        528.07,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image108.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 607
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image108.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 607
+      }
+    },
+    {
+      "order": 38,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/1orytsvu",
+      "id": "101",
+      "name": "图片 43",
+      "bbox": [
+        820.8,
+        443.6,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image110.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 871
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image110.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 871
+      }
+    },
+    {
+      "order": 39,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/u18jqh0f",
+      "id": "102",
+      "name": "图片 44",
+      "bbox": [
+        899.4,
+        443.6,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image112.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 771
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image112.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 771
+      }
+    },
+    {
+      "order": 40,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/jm1cfa9w",
+      "id": "103",
+      "name": "图片 45",
+      "bbox": [
+        978,
+        443.6,
+        45.6,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image114.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 642
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image114.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 642
+      }
+    },
+    {
+      "order": 41,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/cfa9w3m9",
+      "id": "104",
+      "name": "图片 46",
+      "bbox": [
+        426.87,
+        528.07,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image116.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 834
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image116.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 834
+      }
+    },
+    {
+      "order": 42,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/1032lszq",
+      "id": "105",
+      "name": "图片 47",
+      "bbox": [
+        347.93,
+        528.07,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image118.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 284
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image118.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 284
+      }
+    },
+    {
+      "order": 43,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/u9knih4b",
+      "id": "106",
+      "name": "图片 48",
+      "bbox": [
+        741.53,
+        359.53,
+        45.67,
+        45.6
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image120.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 769
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image120.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 769
+      }
+    },
+    {
+      "order": 44,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/judg7ads",
+      "id": "107",
+      "name": "图片 49",
+      "bbox": [
+        1056.53,
+        443.6,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image122.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 750
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image122.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 750
+      }
+    },
+    {
+      "order": 45,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/cj6tovah",
+      "id": "108",
+      "name": "图片 50",
+      "bbox": [
+        827.6,
+        528.07,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image124.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 965
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image124.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 965
+      }
+    },
+    {
+      "order": 46,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/54zidony",
+      "id": "109",
+      "name": "图片 51",
+      "bbox": [
+        906.53,
+        528.07,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image126.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 377
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image126.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 377
+      }
+    },
+    {
+      "order": 47,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/ra5gbq1o",
+      "id": "110",
+      "name": "图片 52",
+      "bbox": [
+        985.47,
+        528.07,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image128.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 598
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image128.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 598
+      }
+    },
+    {
+      "order": 48,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/2p8nqxs7",
+      "id": "111",
+      "name": "图片 53",
+      "bbox": [
+        1064.4,
+        528.07,
+        45.67,
+        45.53
+      ],
+      "contentType": "image/svg+xml",
+      "asset": {
+        "assetId": "/ppt/media/image130.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 787
+      },
+      "fillImage": {
+        "assetId": "/ppt/media/image130.svg",
+        "contentType": "image/svg+xml",
+        "byteLength": 787
+      }
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7adsji5",
+      "id": "60",
+      "name": "标题 59",
+      "bbox": [
+        169.87,
+        89.87,
+        120,
+        95.93
+      ],
+      "text": "图标",
+      "textPreview": "图标",
+      "resolvedFontSize": 37.33,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "vertical": 1,
+        "fontSize": 37.33,
+        "typeface": "Microsoft YaHei Bold",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "图标"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "图标",
+          "runs": [
+            {
+              "index": 1,
+              "text": "图标",
+              "fontSize": 42.67
+            }
+          ],
+          "bulletCharacter": "",
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 0
+        }
+      ]
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9s36hcrm",
+      "id": "61",
+      "name": "副标题 2",
+      "bbox": [
+        415.8,
+        112.73,
+        726.53,
+        95.87
+      ],
+      "text": "该模版提供一系列图标，可放置在标题前方或者其他场景下。点击图标，右侧“填充与线条”-“线条”可修改颜色、粗细和透明度；点击图标也可直接拖拽改变图标大小。",
+      "textPreview": "该模版提供一系列图标，可放置在标题前方或者其他场景下。点击图标，右侧“填充与线条”-“线条”可修改颜色、粗细和透明度；点击图标也可直接拖拽改变图标大小。",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "vertical": 1,
+        "fontSize": 18.67,
+        "typeface": "微软雅黑",
+        "color": {
+          "type": "theme",
+          "value": "tx1",
+          "transform": {
+            "lighten": 0.5
+          }
+        },
+        "alignment": "left",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          },
+          {
+            "index": 2,
+            "text": "该模版提供一系列图标，可放置在标题前方或者其他场景下。点击图标，右侧“填充"
+          },
+          {
+            "index": 3,
+            "text": "与线条”-“线条”可修改颜色、粗细和透明度；点击图标也可直接拖拽改变图标大小。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "该模版提供一系列图标，可放置在标题前方或者其他场景下。点击图标，右侧“填充与线条”-“线条”可修改颜色、粗细和透明度；点击图标也可直接拖拽改变图标大小。",
+          "runs": [
+            {
+              "index": 1,
+              "text": "该模版提供一系列图标，可放置在标题前方或者其他场景下。点击图标，右侧“填充与线条”"
+            },
+            {
+              "index": 2,
+              "text": "-"
+            },
+            {
+              "index": 3,
+              "text": "“线条”可修改颜色、粗细和透明度；点击图标也可直接拖拽改变图标大小。"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0,
+          "indent": 0,
+          "lineSpacingPercent": 150000,
+          "spaceBefore": 1000
+        }
+      ]
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1kre1w7",
+      "id": "62",
+      "name": "直接连接符 61",
+      "bbox": [
+        0,
+        146.87,
+        109,
+        0
+      ],
+      "horizontalFlip": true,
+      "geometry": "line",
+      "lineColor": "#7B221E",
+      "lineWidth": 3.33
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rmhk3q5o",
+      "id": "63",
+      "name": "矩形 62",
+      "bbox": [
+        -1.67,
+        687.93,
+        1283.33,
+        33.4
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Verdana",
+        "color": "lt1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#65110E"
+    }
+  ],
+  "composeRuns": []
+}

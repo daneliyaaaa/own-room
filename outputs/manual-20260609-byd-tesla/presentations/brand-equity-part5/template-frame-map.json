@@ -1,0 +1,109 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 5,
+      "narrativeRole": "strategic starting point",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"sourceElementId": "sh/onyd0z61", "action": "rewrite"},
+        {"sourceElementId": "sh/6dcbulwv", "action": "rewrite"},
+        {"sourceElementId": "sh/58z25kb6", "action": "rewrite"},
+        {"sourceElementId": "sh/gn29gr2p", "action": "rewrite"},
+        {"sourceElementId": "sh/vixczed8", "action": "rewrite"},
+        {"sourceElementId": "sh/ovahoza1", "action": "rewrite"},
+        {"sourceElementId": "sh/s36hcrmh", "action": "rewrite"},
+        {"sourceElementId": "sh/w7mp0bi9", "action": "rewrite"},
+        {"sourceElementId": "sh/mhk3q5o7", "action": "rewrite"}
+      ]
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 9,
+      "narrativeRole": "Ansoff growth matrix",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"sourceElementId": "sh/onyd0z61", "action": "rewrite"},
+        {"sourceElementId": "sh/vy90je9c", "action": "rewrite"},
+        {"sourceElementId": "sh/ovahoza1", "action": "rewrite"},
+        {"sourceElementId": "sh/6dcbulwv", "action": "rewrite"},
+        {"sourceElementId": "sh/z25kb6xk", "action": "rewrite"},
+        {"sourceElementId": "sh/n29gr2p8", "action": "rewrite"},
+        {"sourceElementId": "sh/k3q5o7qp", "action": "rewrite"},
+        {"sourceElementId": "sh/vixczed8", "action": "rewrite"},
+        {"sourceElementId": "sh/donyd0z6", "action": "rewrite"},
+        {"sourceElementId": "sh/6psfil0r", "action": "rewrite"},
+        {"sourceElementId": "sh/lszqtcj6", "action": "rewrite"},
+        {"sourceElementId": "sh/3m94fu18", "action": "rewrite"},
+        {"sourceElementId": "sh/a5gbq1or", "action": "rewrite"},
+        {"sourceElementId": "sh/hoza1gvy", "action": "rewrite"},
+        {"sourceElementId": "sh/psfil0rq", "action": "rewrite"}
+      ]
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 5,
+      "narrativeRole": "Tesla growth priorities",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"sourceElementId": "sh/onyd0z61", "action": "rewrite"},
+        {"sourceElementId": "sh/6dcbulwv", "action": "rewrite"},
+        {"sourceElementId": "sh/58z25kb6", "action": "rewrite"},
+        {"sourceElementId": "sh/gn29gr2p", "action": "rewrite"},
+        {"sourceElementId": "sh/vixczed8", "action": "rewrite"},
+        {"sourceElementId": "sh/ovahoza1", "action": "rewrite"},
+        {"sourceElementId": "sh/s36hcrmh", "action": "rewrite"},
+        {"sourceElementId": "sh/w7mp0bi9", "action": "rewrite"},
+        {"sourceElementId": "sh/mhk3q5o7", "action": "rewrite"}
+      ]
+    },
+    {
+      "outputSlide": 4,
+      "sourceSlide": 9,
+      "narrativeRole": "BYD brand upgrade roadmap",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"sourceElementId": "sh/onyd0z61", "action": "rewrite"},
+        {"sourceElementId": "sh/vy90je9c", "action": "rewrite"},
+        {"sourceElementId": "sh/ovahoza1", "action": "rewrite"},
+        {"sourceElementId": "sh/6dcbulwv", "action": "rewrite"},
+        {"sourceElementId": "sh/z25kb6xk", "action": "rewrite"},
+        {"sourceElementId": "sh/n29gr2p8", "action": "rewrite"},
+        {"sourceElementId": "sh/k3q5o7qp", "action": "rewrite"},
+        {"sourceElementId": "sh/vixczed8", "action": "rewrite"},
+        {"sourceElementId": "sh/donyd0z6", "action": "rewrite"},
+        {"sourceElementId": "sh/6psfil0r", "action": "rewrite"},
+        {"sourceElementId": "sh/lszqtcj6", "action": "rewrite"},
+        {"sourceElementId": "sh/3m94fu18", "action": "rewrite"},
+        {"sourceElementId": "sh/a5gbq1or", "action": "rewrite"},
+        {"sourceElementId": "sh/hoza1gvy", "action": "rewrite"},
+        {"sourceElementId": "sh/psfil0rq", "action": "rewrite"}
+      ]
+    },
+    {
+      "outputSlide": 5,
+      "sourceSlide": 13,
+      "narrativeRole": "breakthrough moves and risks",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"sourceElementId": "sh/lc7u54zi", "action": "rewrite"},
+        {"sourceElementId": "sh/7adsji5s", "action": "rewrite"},
+        {"sourceElementId": "sh/65wjudg7", "action": "rewrite"}
+      ]
+    }
+  ],
+  "omittedSourceSlides": [
+    {"sourceSlide": 1, "reason": "cover pattern not needed for a section insert"},
+    {"sourceSlide": 2, "reason": "chapter divider would consume one of five content slides"},
+    {"sourceSlide": 3, "reason": "directory pattern not needed"},
+    {"sourceSlide": 4, "reason": "blank decorative frame lacks enough inherited content slots"},
+    {"sourceSlide": 6, "reason": "photo cards would imply irrelevant campus evidence"},
+    {"sourceSlide": 7, "reason": "photo-led split layout is not suitable for the strategy framework"},
+    {"sourceSlide": 8, "reason": "quote layout is less efficient than the selected three-column frame"},
+    {"sourceSlide": 10, "reason": "profile layout is not relevant"},
+    {"sourceSlide": 11, "reason": "testimonial layout is not relevant"},
+    {"sourceSlide": 12, "reason": "campus photo collage is not relevant"},
+    {"sourceSlide": 14, "reason": "closing slide is outside the requested Part V content"},
+    {"sourceSlide": 15, "reason": "icon inventory is not a presentation slide"}
+  ]
+}

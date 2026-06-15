@@ -1,0 +1,72 @@
+SLIDE 1 — STRATEGIC DIAGNOSIS
+Claim: Brand-equity asymmetry requires opposite growth logics.
+Tesla diagnosis: premium imagery and resonance are strong; ownership experience, portfolio breadth, and coverage constrain scale.
+Tesla strategic job: extend premium equity into more users, occasions, and revenue streams.
+BYD diagnosis: salience, performance, and scale are strong; architecture fragmentation and value-for-money associations constrain premium.
+BYD strategic job: concentrate meaning, build intelligence cues, and globalize brand equity.
+Decision rule: growth must close the weakest CBBE layer without damaging the strongest one.
+
+SLIDE 2 — ANSOFF PORTFOLIO
+Market penetration:
+- Tesla: service response, transparent repair, owner community.
+- BYD: clarify Dynasty/Ocean roles; reduce internal overlap.
+Market development:
+- Tesla: lower-tier cities and accessible segment with protected tech experience.
+- BYD: localized overseas communication, retail, service, and trust.
+Product development:
+- Tesla: compact model, MPV/utility formats, software bundles.
+- BYD: intelligent-driving, cockpit, OTA, premium design consistency.
+Selective diversification:
+- Tesla: license selected FSD/platform capabilities.
+- BYD: connect mobility, battery, storage, and energy solutions.
+Priority logic: penetration first, adjacent development second, diversification only with brand fit.
+
+SLIDE 3 — TESLA EXECUTION BLUEPRINT
+Objective: broaden access without becoming ordinary.
+1 Ownership flywheel:
+Action: service-level standards, transparent repair progress, proactive customer care.
+Brand mechanism: converts performance satisfaction into trust, attachment, and advocacy.
+KPIs: service NPS, repair cycle time, complaint closure, referral rate.
+Risk/control: service investment dilutes margin -> prioritize high-friction touchpoints and digital triage.
+2 Selective access:
+Action: accessible model/trim and lower-tier-city footprint.
+Brand mechanism: expands salience while retaining technology leadership.
+KPIs: new-to-brand buyers, consideration in target cities, premium perception.
+Risk/control: price cuts erode prestige -> cost-down by platform efficiency, not de-contenting.
+3 Use-case expansion:
+Action: compact vehicle, MPV/utility formats, software/service bundles.
+Brand mechanism: expands purchase occasions and lifetime value.
+KPIs: portfolio concentration, software attach rate, repeat purchase.
+Risk/control: complexity weakens simplicity -> shared platform and strict design language.
+
+SLIDE 4 — BYD EXECUTION BLUEPRINT
+Objective: convert industrial strength into coherent premium and global brand equity.
+Short term, 1-2 years:
+Action: clarify Dynasty/Ocean roles; define Denza, Fangchengbao, and Yangwang ladders; strengthen visible intelligence cues.
+Brand mechanism: reduces confusion and upgrades imagery/judgment.
+KPIs: cross-model confusion, premium consideration, intelligent-tech association.
+Medium term, 3-5 years:
+Action: move from product export to localized brand building, retail, service, and cultural relevance.
+Brand mechanism: builds credibility, feelings, and resonance outside China.
+KPIs: overseas awareness, consideration, service satisfaction, price realization.
+Long term, 5+ years:
+Action: evolve corporate meaning from NEV maker to green-technology company across mobility, batteries, and storage.
+Brand mechanism: creates a broader, future-facing master-brand purpose.
+KPIs: corporate brand value, non-auto association, ecosystem adoption.
+Architecture guardrail:
+Use existing premium marques for upward movement; no overlapping new sub-brand.
+
+SLIDE 5 — BREAKTHROUGH BETS, RISKS, AND GOVERNANCE
+Tesla breakthrough:
+License selected FSD capabilities to become an intelligent-mobility platform and standard setter.
+Upside: ecosystem reach, recurring revenue, category authority.
+Risks: safety liability, regulation, loss of exclusivity.
+Gate: license modular capabilities only after safety and brand-control thresholds.
+BYD breakthrough:
+Make Yangwang/Fangchengbao intelligent-premium flagships rather than create another marque.
+Upside: premium proof, clearer technology halo, faster brand upgrading.
+Risks: cannibalization, architecture overlap, fragmented investment.
+Gate: exclusive audience, price band, design code, and channel role for each marque.
+Governance:
+Quarterly brand-equity dashboard covering premium perception, consideration, NPS, price realization, and cross-brand confusion.
+Final rule: approve growth only when it strengthens core meaning and one weak CBBE layer.

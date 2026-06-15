@@ -1,0 +1,8 @@
+Task mode: create.
+Primary deck profile: strategy-leadership.
+Secondary gate: gtm-growth.
+Required proof objects: strategic mandate comparison, Ansoff matrix, execution pillars, phased roadmap, risk and KPI governance.
+Source requirements: user-provided strategic brief and preceding brand-equity diagnosis; no invented performance figures.
+Brand authenticity: omit logos and other identity assets because verified official files were not required.
+QA gates: coherent five-slide narrative, visible Tesla/BYD differentiation, readable classroom projection, explicit action-mechanism-KPI-risk logic.
+Known missing inputs: no required quantitative dataset; recommendations are qualitative.

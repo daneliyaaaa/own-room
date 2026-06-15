@@ -1,0 +1,8 @@
+task mode: template-following
+primary deck-profile: template-following
+secondary profile gates: strategy-leadership; gtm-growth
+required proof objects: strategic fork, Ansoff matrix, Tesla action set, BYD phased roadmap, breakthrough/risk synthesis
+source requirements: user-provided Part V brief; earlier brand-equity diagnosis used only as context
+brand constraints: preserve Renmin Business School template assets; do not fabricate Tesla or BYD logos
+QA gates: exact source-slide duplication, inherited text edits only, English presentation copy, no unresolved placeholders
+known missing inputs: no externally verified market forecasts; therefore recommendations are qualitative and do not claim forecast precision

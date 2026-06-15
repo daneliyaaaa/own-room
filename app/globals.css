@@ -50,17 +50,31 @@ a {
 
 .desk-split-grid {
   display: grid;
-  grid-template-columns: minmax(420px, 5fr) minmax(680px, 7fr);
-}
-
-.drop-zone:focus,
-.drop-zone:hover {
-  background: var(--neutral-soft);
-  color: var(--ink);
+  grid-template-columns: minmax(320px, 3fr) minmax(760px, 7fr);
 }
 
 .ai-discussion {
-  box-shadow: 4px 4px 0 0 var(--ink);
+  color: var(--ink-soft);
+}
+
+.writing-paragraph {
+  min-height: 4.25rem;
+  padding: 1.25rem 1.5rem;
+  caret-color: var(--editor-red);
+  line-height: 2.15;
+  outline: none;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.writing-paragraph:focus {
+  background: #FCFAF4;
+  box-shadow: inset 2px 0 0 #D8D1C4;
+}
+
+.writing-paragraph::selection {
+  background: #E8DFC9;
+  color: var(--ink);
 }
 
 ::selection {

@@ -1,0 +1,8 @@
+Inherited system: 1280 x 720, warm ivory background, Renmin red accents, Microsoft YaHei/Verdana typography, school logo and campus illustration chrome.
+Typography: preserve every mapped source text box's original font family, size, weight, alignment, spacing, and inset settings.
+Layout families: three-column strategy frame (source slide 5), four-item evidence frame (source slide 9), synthesis panel (source slide 13).
+Color rule: retain source palette; use red only for hierarchy and rules.
+Proof grammar: one dominant framework per slide; short labels plus concise explanatory copy.
+Footer/page markers: rewrite inherited page numbers to 01-05.
+Identity assets: retain verified school marks from the source template; omit Tesla and BYD logos.
+Banned motifs: new overlays, new logos, decorative icons, dense paragraphs, invented metrics.

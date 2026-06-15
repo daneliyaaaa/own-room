@@ -1,0 +1,6 @@
+Canvas: 1280 x 720, 16:9.
+Style: high-density strategy presentation with a light neutral background and white analytical panels.
+Brand comparison: Tesla red (#D83A34), BYD blue (#2F63D8), dark navy for decision rules and governance.
+Typography: Aptos/Arial-compatible sans serif; claim-led 27 pt titles, 11–19 pt analytical text.
+Layout grammar: strong top claim, one proof object per slide, flat cards, thin rules, restrained rounded corners.
+Identity assets: no logos or unofficial marks; color and language carry brand differentiation.

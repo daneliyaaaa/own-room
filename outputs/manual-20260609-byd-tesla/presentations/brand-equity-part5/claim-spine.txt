@@ -1,0 +1,28 @@
+Thesis: The two brands require opposite growth logics: Tesla should extend its premium technology equity into more users and use cases, while BYD should convert scale and product strength into coherent, higher-level brand equity.
+Audience: Brand management class.
+Arc: diagnose the strategic fork -> locate choices in Ansoff -> specify Tesla actions -> phase BYD actions -> close with breakthrough moves and brand-risk guardrails.
+
+Slide 1
+Claim: One market, two opposite growth jobs.
+Proof object: three-part strategic fork.
+Source: user-provided Part V brief plus preceding brand-equity diagnosis.
+
+Slide 2
+Claim: Ansoff reveals an asymmetric growth agenda.
+Proof object: four-quadrant Ansoff matrix.
+Source: user-provided Part V brief.
+
+Slide 3
+Claim: Tesla must broaden access without making the brand ordinary.
+Proof object: service, accessible entry, and new-use-case action set.
+Source: user-provided Part V brief.
+
+Slide 4
+Claim: BYD must sequence brand upgrading before pursuing further complexity.
+Proof object: short-, medium-, and long-term roadmap plus architecture guardrail.
+Source: user-provided Part V brief.
+
+Slide 5
+Claim: Breakthrough growth is valuable only when core meaning stays coherent.
+Proof object: two breakthrough bets and four risk controls.
+Source: user-provided Part V brief; recommendation refined to use existing premium brands rather than create another sub-brand.

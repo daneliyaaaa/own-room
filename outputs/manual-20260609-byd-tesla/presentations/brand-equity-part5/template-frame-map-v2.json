@@ -1,0 +1,101 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 9,
+      "narrativeRole": "brand-equity diagnosis and strategic jobs",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"sourceElementId": "sh/onyd0z61", "action": "rewrite"},
+        {"sourceElementId": "sh/vy90je9c", "action": "rewrite"},
+        {"sourceElementId": "sh/ovahoza1", "action": "rewrite"},
+        {"sourceElementId": "sh/6dcbulwv", "action": "rewrite"},
+        {"sourceElementId": "sh/z25kb6xk", "action": "rewrite"},
+        {"sourceElementId": "sh/n29gr2p8", "action": "rewrite"},
+        {"sourceElementId": "sh/k3q5o7qp", "action": "rewrite"},
+        {"sourceElementId": "sh/vixczed8", "action": "rewrite"},
+        {"sourceElementId": "sh/donyd0z6", "action": "rewrite"},
+        {"sourceElementId": "sh/6psfil0r", "action": "rewrite"},
+        {"sourceElementId": "sh/lszqtcj6", "action": "rewrite"},
+        {"sourceElementId": "sh/3m94fu18", "action": "rewrite"},
+        {"sourceElementId": "sh/a5gbq1or", "action": "rewrite"},
+        {"sourceElementId": "sh/hoza1gvy", "action": "rewrite"},
+        {"sourceElementId": "sh/psfil0rq", "action": "rewrite"}
+      ]
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 9,
+      "narrativeRole": "Ansoff strategic portfolio",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"sourceElementId": "sh/onyd0z61", "action": "rewrite"},
+        {"sourceElementId": "sh/vy90je9c", "action": "rewrite"},
+        {"sourceElementId": "sh/ovahoza1", "action": "rewrite"},
+        {"sourceElementId": "sh/6dcbulwv", "action": "rewrite"},
+        {"sourceElementId": "sh/z25kb6xk", "action": "rewrite"},
+        {"sourceElementId": "sh/n29gr2p8", "action": "rewrite"},
+        {"sourceElementId": "sh/k3q5o7qp", "action": "rewrite"},
+        {"sourceElementId": "sh/vixczed8", "action": "rewrite"},
+        {"sourceElementId": "sh/donyd0z6", "action": "rewrite"},
+        {"sourceElementId": "sh/6psfil0r", "action": "rewrite"},
+        {"sourceElementId": "sh/lszqtcj6", "action": "rewrite"},
+        {"sourceElementId": "sh/3m94fu18", "action": "rewrite"},
+        {"sourceElementId": "sh/a5gbq1or", "action": "rewrite"},
+        {"sourceElementId": "sh/hoza1gvy", "action": "rewrite"},
+        {"sourceElementId": "sh/psfil0rq", "action": "rewrite"}
+      ]
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 10,
+      "narrativeRole": "Tesla execution blueprint",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"sourceElementId": "sh/r2p8nqxs", "action": "rewrite"},
+        {"sourceElementId": "sh/25kb6xkf", "action": "rewrite-and-reposition"},
+        {"sourceElementId": "sh/4fu18jqh", "action": "rewrite-and-reposition"},
+        {"sourceElementId": "sh/x0nuxc3y", "action": "rewrite-and-reposition"}
+      ]
+    },
+    {
+      "outputSlide": 4,
+      "sourceSlide": 10,
+      "narrativeRole": "BYD execution blueprint",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"sourceElementId": "sh/r2p8nqxs", "action": "rewrite"},
+        {"sourceElementId": "sh/25kb6xkf", "action": "rewrite-and-reposition"},
+        {"sourceElementId": "sh/4fu18jqh", "action": "rewrite-and-reposition"},
+        {"sourceElementId": "sh/x0nuxc3y", "action": "rewrite-and-reposition"}
+      ]
+    },
+    {
+      "outputSlide": 5,
+      "sourceSlide": 8,
+      "narrativeRole": "breakthrough bets risks and governance",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {"sourceElementId": "sh/u9knih4b", "action": "rewrite"},
+        {"sourceElementId": "sh/epkzupwb", "action": "rewrite"},
+        {"sourceElementId": "sh/e9cvixcz", "action": "rewrite"},
+        {"sourceElementId": "sh/jm1cfa9w", "action": "rewrite"},
+        {"sourceElementId": "sh/3q5o7qpg", "action": "rewrite"}
+      ]
+    }
+  ],
+  "omittedSourceSlides": [
+    {"sourceSlide": 1, "reason": "cover not required"},
+    {"sourceSlide": 2, "reason": "section divider not required"},
+    {"sourceSlide": 3, "reason": "directory not required"},
+    {"sourceSlide": 4, "reason": "insufficient inherited content slots"},
+    {"sourceSlide": 5, "reason": "three-card frame is less suitable for the richer analytical content"},
+    {"sourceSlide": 6, "reason": "photo-card frame is not analytical enough"},
+    {"sourceSlide": 7, "reason": "photo-led layout not suitable"},
+    {"sourceSlide": 11, "reason": "testimonial layout has fewer validated inherited edit targets"},
+    {"sourceSlide": 12, "reason": "photo collage not suitable"},
+    {"sourceSlide": 13, "reason": "conclusion panel has insufficient text capacity for the expanded governance content"},
+    {"sourceSlide": 14, "reason": "closing slide outside scope"},
+    {"sourceSlide": 15, "reason": "icon inventory"}
+  ]
+}

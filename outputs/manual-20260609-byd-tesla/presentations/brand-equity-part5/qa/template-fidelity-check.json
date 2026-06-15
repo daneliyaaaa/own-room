@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "checkedAt": "2026-06-09T13:18:34.371Z",
+  "workspace": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5",
+  "finalPptx": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/output/BYD-vs-Tesla-Part-V-Growth-Strategies.pptx",
+  "starterPptx": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter.pptx",
+  "mapPath": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-frame-map.json",
+  "starterLayoutDir": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/template-starter-layout",
+  "finalLayoutDir": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5/layout/final",
+  "editDir": "/Users/renyiting/Documents/spark/outputs/manual-20260609-byd-tesla/presentations/brand-equity-part5",
+  "issueCount": 0,
+  "issues": []
+}
